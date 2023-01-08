@@ -12,7 +12,7 @@ Assign the two values
 
 ### Step 3: 
 Substitute the values in the distance formula  
-![formula](/formula.JPG)
+![formula](formula.JPG)
 
 ### Step 4: 
 Print the output
@@ -33,7 +33,7 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![images](/images/DistanceOutput.png)
+![images](images/DistanceOutput.png)
 
 ### RESULT:
 python program to find the distance between two points is executed successfully
